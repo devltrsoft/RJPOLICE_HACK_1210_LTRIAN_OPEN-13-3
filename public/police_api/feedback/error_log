@@ -1,0 +1,4 @@
+[16-Jan-2024 02:28:56 UTC] PHP Warning:  Undefined array key "quality" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/feedback/create_feedback.php on line 11
+[16-Jan-2024 02:28:56 UTC] PHP Warning:  Undefined array key "taken_to_resoive" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/feedback/create_feedback.php on line 14
+[16-Jan-2024 05:05:39 UTC] PHP Warning:  Undefined array key "quality" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/feedback/create_feedback.php on line 11
+[16-Jan-2024 05:05:39 UTC] PHP Warning:  Undefined array key "taken_to_resoive" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/feedback/create_feedback.php on line 14

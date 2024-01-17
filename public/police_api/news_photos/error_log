@@ -1,0 +1,34 @@
+[07-Jan-2024 09:55:16 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 09:55:16 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 11
+[07-Jan-2024 09:58:19 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 09:58:19 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 11
+[07-Jan-2024 10:00:19 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:00:19 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 11
+[07-Jan-2024 10:03:23 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:03:23 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 11
+[07-Jan-2024 10:06:35 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:06:35 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 11
+[07-Jan-2024 10:37:54 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:37:54 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:37:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 10:43:14 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:43:14 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:43:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 10:44:37 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:44:37 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:44:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 10:50:22 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:50:22 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:50:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 10:52:21 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:52:21 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:52:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 10:53:18 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:53:18 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 10:56:01 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 10:56:01 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 10:56:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14
+[07-Jan-2024 11:32:35 UTC] PHP Notice:  Undefined index: news_photos_path in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 9
+[07-Jan-2024 11:32:35 UTC] PHP Notice:  Undefined index: news_id in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 10
+[07-Jan-2024 11:32:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/news_photos/create_news_p.php on line 14

@@ -1,0 +1,14 @@
+[22-Dec-2023 12:25:11 UTC] PHP Warning:  Undefined array key "investigation_witness_password" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/create__investigation_witness.php on line 15
+[22-Dec-2023 12:25:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'investigation_witness_password' in 'field list' in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/create__investigation_witness.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/create__investigation_witness.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/create__investigation_witness.php on line 44
+[17-Jan-2024 08:03:15 UTC] PHP Warning:  Undefined array key "witness_pan" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/update__investigation_witness.php on line 34
+[17-Jan-2024 08:03:15 UTC] PHP Warning:  Undefined array key "investigation_witness_desc" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/update__investigation_witness.php on line 41
+[17-Jan-2024 08:03:15 UTC] PHP Warning:  Undefined variable $photo in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/update__investigation_witness.php on line 61
+[17-Jan-2024 08:03:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1234', `updated_at`='2024-01-17 08:03:15', `investigation_witness_desc`='' WHERE' at line 1 in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/update__investigation_witness.php:64
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/update__investigation_witness.php(64): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/investigation_witness/update__investigation_witness.php on line 64

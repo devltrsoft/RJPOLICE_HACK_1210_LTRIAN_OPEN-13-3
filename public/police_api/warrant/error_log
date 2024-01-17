@@ -1,0 +1,1 @@
+[10-Jan-2024 10:21:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/warrant/read_warrant.php on line 14

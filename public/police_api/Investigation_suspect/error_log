@@ -1,0 +1,119 @@
+[24-Dec-2023 16:58:56 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 10
+[24-Dec-2023 16:58:56 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 11
+[24-Dec-2023 16:58:56 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 16:58:56 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 13
+[24-Dec-2023 16:58:56 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 16:58:56 UTC] PHP Warning:  Undefined array key "suspect_photo" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 18
+[24-Dec-2023 17:24:02 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:24:02 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:24:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:25:34 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:25:34 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:25:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:26:42 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:26:42 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:26:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:27:08 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:27:08 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:27:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:29:18 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:29:18 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:29:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:29:27 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:29:27 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:29:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:30:05 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:30:05 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:30:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:36:00 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:36:00 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:36:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:38:11 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:38:11 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:38:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:38:13 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:38:13 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:38:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:38:23 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:38:23 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:38:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 17:38:38 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 17:38:38 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 17:38:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[24-Dec-2023 18:47:07 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[24-Dec-2023 18:47:07 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[24-Dec-2023 18:47:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`investigation_suspect`, CONSTRAINT `investigation_suspect_ibfk_1` FOREIGN KEY (`country_id`) REFERENCES `country` (`country_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php:44
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php(44): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 44
+[25-Dec-2023 09:47:23 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 10
+[25-Dec-2023 09:47:23 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 11
+[25-Dec-2023 09:47:23 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[25-Dec-2023 09:47:23 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 13
+[25-Dec-2023 09:47:23 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[25-Dec-2023 09:47:23 UTC] PHP Warning:  Undefined array key "suspect_photo" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 18
+[25-Dec-2023 13:01:22 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 10
+[25-Dec-2023 13:01:22 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 11
+[25-Dec-2023 13:01:22 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[25-Dec-2023 13:01:22 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 13
+[25-Dec-2023 13:01:22 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[25-Dec-2023 13:01:22 UTC] PHP Warning:  Undefined array key "suspect_photo" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 18
+[25-Dec-2023 13:35:04 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 10
+[25-Dec-2023 13:35:04 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 11
+[25-Dec-2023 13:35:04 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[25-Dec-2023 13:35:04 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 13
+[25-Dec-2023 13:35:04 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15
+[25-Dec-2023 13:35:07 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 10
+[25-Dec-2023 13:35:07 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 11
+[25-Dec-2023 13:35:07 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 12
+[25-Dec-2023 13:35:07 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 13
+[25-Dec-2023 13:35:07 UTC] PHP Warning:  Undefined array key "suspect_pan_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/Investigation_suspect/create_investigation_suspect.php on line 15

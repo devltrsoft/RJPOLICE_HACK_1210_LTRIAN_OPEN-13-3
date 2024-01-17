@@ -1,0 +1,102 @@
+[16-Jan-2024 02:41:54 UTC] PHP Warning:  Undefined array key "complaint_type_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 5
+[16-Jan-2024 02:41:54 UTC] PHP Warning:  Undefined array key "complaint_subject" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 6
+[16-Jan-2024 02:41:54 UTC] PHP Warning:  Undefined array key "station_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 11
+[16-Jan-2024 02:41:54 UTC] PHP Warning:  Undefined array key "latitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 13
+[16-Jan-2024 02:41:54 UTC] PHP Warning:  Undefined array key "longitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 14
+[16-Jan-2024 02:42:11 UTC] PHP Warning:  Undefined array key "complaint_type_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 5
+[16-Jan-2024 02:42:11 UTC] PHP Warning:  Undefined array key "complaint_subject" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 6
+[16-Jan-2024 02:42:11 UTC] PHP Warning:  Undefined array key "station_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 11
+[16-Jan-2024 02:42:11 UTC] PHP Warning:  Undefined array key "latitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 13
+[16-Jan-2024 02:42:11 UTC] PHP Warning:  Undefined array key "longitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 14
+[16-Jan-2024 02:42:14 UTC] PHP Warning:  Undefined array key "complaint_type_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 5
+[16-Jan-2024 02:42:14 UTC] PHP Warning:  Undefined array key "complaint_subject" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 6
+[16-Jan-2024 02:42:14 UTC] PHP Warning:  Undefined array key "station_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 11
+[16-Jan-2024 02:42:14 UTC] PHP Warning:  Undefined array key "latitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 13
+[16-Jan-2024 02:42:14 UTC] PHP Warning:  Undefined array key "longitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 14
+[16-Jan-2024 02:42:15 UTC] PHP Warning:  Undefined array key "complaint_type_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 5
+[16-Jan-2024 02:42:15 UTC] PHP Warning:  Undefined array key "complaint_subject" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 6
+[16-Jan-2024 02:42:15 UTC] PHP Warning:  Undefined array key "station_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 11
+[16-Jan-2024 02:42:15 UTC] PHP Warning:  Undefined array key "latitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 13
+[16-Jan-2024 02:42:15 UTC] PHP Warning:  Undefined array key "longitude" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_insert.php on line 14
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_fname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 22
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_mname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 23
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_lname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 24
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_address" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 25
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_dob" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 26
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_gender" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 27
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_mobile_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 28
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_email" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 29
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_desc" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 30
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 33
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 34
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 35
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 36
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_adhar" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 39
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined array key "complaint_suspect_pan" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 40
+[16-Jan-2024 03:44:41 UTC] PHP Warning:  Undefined variable $filename in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 60
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_fname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 22
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_mname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 23
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_lname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 24
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_address" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 25
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_dob" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 26
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_gender" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 27
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_mobile_no" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 28
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_email" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 29
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_desc" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 30
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 33
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 34
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 35
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 36
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_adhar" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 39
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined array key "complaint_suspect_pan" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 40
+[16-Jan-2024 03:47:02 UTC] PHP Warning:  Undefined variable $filename in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_suspect_insert.php on line 60
+[16-Jan-2024 04:49:08 UTC] PHP Warning:  Undefined array key "email" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php on line 30
+[16-Jan-2024 04:49:08 UTC] PHP Warning:  Undefined array key "pan" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php on line 38
+[16-Jan-2024 04:49:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`complaint_victim`, CONSTRAINT `complaint_victim_ibfk_5` FOREIGN KEY (`complaint_id`) REFERENCES `complaint` (`complaint_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php:43
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php on line 43
+[16-Jan-2024 04:49:16 UTC] PHP Warning:  Undefined array key "email" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php on line 30
+[16-Jan-2024 04:49:16 UTC] PHP Warning:  Undefined array key "pan" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php on line 38
+[16-Jan-2024 04:49:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`ltrproin_rj`.`complaint_victim`, CONSTRAINT `complaint_victim_ibfk_5` FOREIGN KEY (`complaint_id`) REFERENCES `complaint` (`complaint_id`)) in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php:43
+Stack trace:
+#0 /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/create_complaint_victim.php on line 43
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_mname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 25
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_lname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 26
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_address" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 27
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 29
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 30
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 31
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 32
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_gender" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 35
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_mobile2" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 37
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_dob" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 38
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined array key "user_adhar" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 39
+[16-Jan-2024 14:01:46 UTC] PHP Warning:  Undefined variable $filename in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 55
+[16-Jan-2024 18:01:24 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 18:02:58 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 18:04:33 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 18:04:45 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 18:04:46 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 19:04:55 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 19:06:50 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 19:08:17 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 19:09:45 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 19:10:44 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 19:13:30 UTC] PHP Warning:  Undefined array key "created_date" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/complaint_by_date.php on line 7
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_mname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 25
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_lname" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 26
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_address" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 27
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "country_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 29
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "state_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 30
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "district_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 31
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "city_id" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 32
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_gender" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 35
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_mobile2" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 37
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_dob" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 38
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_adhar" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 39
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined array key "user_fcn_token" in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 40
+[16-Jan-2024 21:43:53 UTC] PHP Warning:  Undefined variable $filename in /home/ltrproin/public_html/rj.ltr-soft.com/public/police_api/data/user_insert.php on line 55
